@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.*
+!.env.example
+
+# build output
+dist/
+
+# editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude local settings
+.claude/settings.local.json
+
+# package tarballs
+*.tgz
+
+# OS files
+.DS_Store
+Thumbs.db
