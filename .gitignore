@@ -27,3 +27,6 @@ dist/
 Thumbs.db
 
 CLAUDE.md
+
+# Playwright MCP artifacts
+.playwright-mcp/
