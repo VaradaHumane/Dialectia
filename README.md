@@ -6,7 +6,7 @@ A local React prototype for a Multi-Agent AI Debate System with Live Sentiment A
 
 Watch the Dialectia AI Debate Arena in action:
 
-![](https://github.com/user-attachments/assets/9d9ddb91-2799-4b86-a5e8-220db4c2d233)
+<video src="https://github.com/user-attachments/assets/e00b240a-9698-4ab8-9f02-7050b1da8328" controls></video>
 
 ## Features
 
