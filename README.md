@@ -2,6 +2,12 @@
 
 A local React prototype for a Multi-Agent AI Debate System with Live Sentiment Analysis.
 
+## 🎥 Project Demo
+
+Watch the Dialectia AI Debate Arena in action:
+
+![](https://github.com/user-attachments/assets/9d9ddb91-2799-4b86-a5e8-220db4c2d233)
+
 ## Features
 
 - **Two AI Agents**: FOR and AGAINST agents debate any topic across multiple rounds
@@ -118,7 +124,3 @@ Simple keyword heuristic (no external NLP libraries):
 - Empty topic prevents starting
 - 30-second timeout with user-friendly message
 - All errors are recoverable without page refresh
-
-## License
-
-MIT
