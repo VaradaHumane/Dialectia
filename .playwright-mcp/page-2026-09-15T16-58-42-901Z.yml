@@ -1,0 +1,23 @@
+- generic [ref=f4e6]:
+  - generic [ref=f4e7]:
+    - heading "AI Debate Arena" [level=1] [ref=f4e8]
+    - paragraph [ref=f4e9]: Two AI agents. One topic. Real-time sentiment.
+  - generic [ref=f4e10]:
+    - generic [ref=f4e11]:
+      - generic [ref=f4e12]: Debate topic
+      - textbox "Debate topic" [ref=f4e13]:
+        - /placeholder: Enter a debate topic...
+        - text: Climate Policy
+    - generic [ref=f4e14]:
+      - paragraph [ref=f4e15]: "Or try an example:"
+      - generic [ref=f4e16]:
+        - button "AI in Education" [ref=f4e17] [cursor=pointer]
+        - button "Climate Policy" [active] [ref=f4e18] [cursor=pointer]
+        - button "Remote Work" [ref=f4e19] [cursor=pointer]
+    - generic [ref=f4e20]:
+      - generic [ref=f4e21]: Number of Rounds
+      - radiogroup "Number of debate rounds" [ref=f4e22]:
+        - radio "3" [checked] [ref=f4e23] [cursor=pointer]
+        - radio "5" [ref=f4e24] [cursor=pointer]
+        - radio "7" [ref=f4e25] [cursor=pointer]
+    - button "Start Debate" [ref=f4e26] [cursor=pointer]

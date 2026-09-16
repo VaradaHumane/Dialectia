@@ -1,0 +1,4 @@
+[  220376ms] [ERROR] Failed to load resource: the server responded with a status of 502 (Bad Gateway) @ http://localhost:3000/api/groq:0
+[  220378ms] [ERROR] Failed to load resource: the server responded with a status of 502 (Bad Gateway) @ http://localhost:3000/api/groq:0
+[ 1588136ms] [ERROR] WebSocket connection to 'ws://localhost:3000/?token=t8S_iX7Vh-iK' failed:  @ http://localhost:3000/@vite/client:871
+[ 1588136ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:3000/@vite/client:1002
